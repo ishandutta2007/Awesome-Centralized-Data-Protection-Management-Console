@@ -57,9 +57,9 @@ The table below outlines category-defining centralized enterprise data protectio
 
 ## 💻 Open-Source Projects
 
-Self-hosted backup orchestrators, web management interfaces, and infrastructure-as-code data protection control planes sorted by GitHub Star Count (descending):
+Self-hosted backup orchestrators, web management interfaces, and infrastructure-as-code data protection control planes sorted by GitHub Stars_Count (descending):
 
-| Project | GitHub Stars | Description | Centralized Management Features |
+| Project | GitHub_Stars | Description | Centralized Management Features |
 | :--- | :--- | :--- | :--- |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | High-performance multi-cloud data sync and backup utility supporting 70+ cloud storage backends. | Features an embedded web GUI (`rclone rcd --rc-web-gui`), REST API control, mount capabilities, bandwidth scheduling, and multi-endpoint data routing. |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, and authenticated deduplicating backup CLI engine for local and cloud storage. | Paired with web interfaces (Backrest, resticprofile) for policy enforcement, snapshot management, automated verification, and repository monitoring. |
@@ -99,7 +99,7 @@ Contributions are welcome! To propose a new SaaS platform or open-source tool:
 
 1. Fork this repository.
 2. Ensure new SaaS additions include verified starting tier pricing and specific trial/free tier limits.
-3. For open-source projects, ensure the repository is active and format the star badge linking directly to its stargazers page (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`).
+3. For open-source projects, ensure the repository is active and format the Stars_Badge linking directly to its stargazers page (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`).
 4. Submit a Pull Request with a clear summary of changes.
 
 ---
