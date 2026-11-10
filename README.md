@@ -1,32 +1,42 @@
 # Awesome-Centralized-Data-Protection-Management-Console
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Centralized-Data-Protection-Management-Console/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Centralized Data Protection Management Console Ecosystem Banner" width="100%" />
+</p>
 
-> A curated list of leading Enterprise SaaS Platforms and Open-Source Management Consoles for Centralized Data Protection, Unified Backup Orchestration, Cyber Resilience Visibility, Disaster Recovery, and Multi-Cloud Data Governance.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Centralized-Data-Protection-Management-Console/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source Projects](#open-source-projects)
-- [Architecture & Frameworks for Custom Consoles](#architecture--frameworks-for-custom-consoles)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+> 🛡️ A curated list of leading Enterprise SaaS Platforms and Open-Source Management Consoles for Centralized Data Protection, Unified Backup Orchestration, Cyber Resilience Visibility, Disaster Recovery, and Multi-Cloud Data Governance.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source Projects](#-open-source-projects)
+- [🏗️ Architecture & Frameworks for Custom Consoles](#️-architecture--frameworks-for-custom-consoles)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
 
 The global enterprise backup and data protection recovery market is estimated at **$11.8B to $13.1B in 2026** (scaling from ~$10.6B in 2025 at an 8–10% CAGR), accelerated by escalating enterprise ransomware threats, NIS2/DORA regulatory compliance mandates, and hybrid multi-cloud expansion. The sector is **moderately concentrated at the top with an oligopolistic core**—where high barriers to entry, enterprise security accreditations, and multi-cloud workload complexity anchor dominant enterprise players (such as Rubrik, Veeam, Cohesity, Commvault, and Dell), while a dynamic, specialized fringe addresses niche cloud-native SaaS backups and self-hosted open-source control planes.
 
 ---
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 The table below outlines category-defining centralized enterprise data protection platforms, ranked by **Company Size (Valuation / Revenue)** in descending order:
 
@@ -45,7 +55,7 @@ The table below outlines category-defining centralized enterprise data protectio
 
 ---
 
-## Open-Source Projects
+## 💻 Open-Source Projects
 
 Self-hosted backup orchestrators, web management interfaces, and infrastructure-as-code data protection control planes sorted by GitHub Star Count (descending):
 
@@ -72,7 +82,7 @@ Self-hosted backup orchestrators, web management interfaces, and infrastructure-
 
 ---
 
-## Architecture & Frameworks for Custom Consoles
+## 🏗️ Architecture & Frameworks for Custom Consoles
 
 For platform engineers building proprietary or vendor-neutral centralized data protection management consoles:
 
@@ -83,7 +93,7 @@ For platform engineers building proprietary or vendor-neutral centralized data p
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! To propose a new SaaS platform or open-source tool:
 
@@ -94,7 +104,24 @@ Contributions are welcome! To propose a new SaaS platform or open-source tool:
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for visiting and using this curated resource! If you find this repository valuable:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** it to keep a personal reference or contribute your additions.
+- 📢 **Share** it with fellow backup admins, DevOps engineers, and cyber resilience practitioners.
+- ☕ **Buy a coffee & sponsor** ongoing development and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Centralized-Data-Protection-Management-Console&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Centralized-Data-Protection-Management-Console&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
 
 - This curated list is maintained for architectural research and community evaluation purposes.
 - All product names, logos, and brands are property of their respective owners. Mention of SaaS products or open-source tools does not constitute an endorsement.
